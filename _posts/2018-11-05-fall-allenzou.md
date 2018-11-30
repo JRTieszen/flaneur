@@ -56,7 +56,7 @@ Not only is the mural located in a highly accessible area, but also a well-trave
 
 As aforementioned, Venice’s art has no set medium. It has even gone so far as to be the subject matter of residential fences, steps, and sidewalks. By having art practically everywhere, the neighborhood is able to showcase its untraditional culture, and its acceptance towards utilizing untraditional mediums to convey the interpersonal messages of artists. As depicted on the exterior of a local bar, Art Mortimer’s “Brandelli’s Brig,” captures a bar owner and his wife in “a mural inside a mural inside a mural” (“Mural Conservancy of Los Angeles,” 2018). This reflects Venice’s open attitude towards uncustomary art subjects, as well as its ability to keep up with contemporary art movements. Moreover, “Brandelli’s Brig” is not only located on the side of a bar, but also on Abbot Kinney Boulevard, reflecting the nondiscriminatory geographic boundaries of Venice. Apart from “Brandelli’s Brig,” murals can also be widely seen scattered on the surfaces of fences. 
 
-![You change this and put in your own Image title](images/Fench Barrier.JPG) 
+![You change this and put in your own Image title](images/FenchBarrier.JPG) 
    {:.image}
 Frequently, these fences are used to enclose residential areas from the greater Venice community. This reflects the impact technology companies have on Venice. Wealthy millennials who are not prepared to face the poverty clinging onto Venice use physical barriers to ignore such inequities. By allowing artist to create aesthetically apealling work on an otherwise dull barrier, the wealthy are able to further cover up the drastic divide within the neighborhood. 
 
