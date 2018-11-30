@@ -15,7 +15,7 @@ desc: "Santa Monica’s largely white middle class demographic shapes and is sha
      
 ![Buildings](images/schroederbuildings.jpg)
    {:.image}
-Figure 1: Modern design of hotel, apartment, and house in Santa Monica area
+Figure 1: Modern design of hotel, apartment, and house in Santa Monica area.
    {:.caption} 
    
    In order to keep up with the changing preferences of Santa Monica residents, there is rampant construction in the city. As can be seen in figure 2, Santa Monica has 11 current and 15 proposed construction sites while Long Beach has 10 current and 12 proposed construction sites. Although both cities have similar amounts of construction, Santa Monica has more small scale, likely residential construction sites whereas Long Beach has larger construction projects represented by the large shapes and longer lines of red and green. Larger scale projects are usually taken on by the city and are for public works rather than private residences, which reveals that Santa Monica’s construction is more focused on individual residence and business improvement whereas Long Beach’s construction is more for industry and public good. Recent construction in Santa Monica has yielded modern residences; however, living costs have been increasing at the same time to meet this new standard of housing.
