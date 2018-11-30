@@ -3,7 +3,7 @@ layout: post
 title: "Los Angeles, a Slave to the Business Firms"
 date: 2018-10-29
 categories: "sustainability" 
-author: "HANNAH HONG"
+author: "Hannah Hong"
 lat: 34.0498707
 lng: -118.2517904
 desc: "Los Angeles, a Slave to the Business Firms"
