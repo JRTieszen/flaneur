@@ -49,7 +49,7 @@ Even the Venice Boardwalk has fallen prey to the rules of gentrification, ruinin
 
 Artists, once the most prominent of Venice’s bohemian culture, are now subject to the same problems that face the rest of Venice. However, they can be the key for Venice’s revival as a town which accepts not only diversity but can remain true to their origins as outlined by Abbot Kinney. The founder of Venice wanted it to be a place of higher learning and where people could pursue their dreams. Not only has gentrification, among other major problems, stopped the latter, but it completely denies the former. Any place that refuses to care about its people will lose their respective will, dedication, and dreams. It will lose its purpose and what it means to be a home. Even now, street art remains a big part of Venice and its publicity is only increased due to exposure on many mediums (from the Internet all the way to word of mouth). Street art is all about “expression, creativity, and freedom […] It’s a way to step beyond convention” and with this method, artists can protest the many problems that are existent in Venice today (Janaline).  
 
-![Street Mural on Abandoned House](imagesZheng_Graffiti.jpg)
+![Street Mural on Abandoned House](images/Zheng_Graffiti.jpg)
    {:.image}
 This is a street mural on an abandoned house in Venice, CA. This house is covered with graffiti and colors that represent the freedom of the local residents.
    {:.caption} 
