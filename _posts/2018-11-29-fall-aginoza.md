@@ -51,16 +51,23 @@ Sign containing Korean and Spanish message without any English in sight. Photogr
 {:.bibliography} 
 Aron, H. (2017, April 04). Koreatown Is About to Get Even More Crowded. Retrieved November 28, 2018, from https://www.laweekly.com/news/koreatown-is-about-to-get-even-more-crowded-7916586
 
+{:.bibliography} 
 Givens, H. L. (1939). The Korean Community in Los Angeles(Master's thesis, University of Southern California, 1939) (pp. 1-91). Los Angeles: University of Southern California.
 
+{:.bibliography} 
 Myung, J. (2015). Values-Based Approach to Heritage Conservation: Identifying Cultural Heritage in Los Angeles Koreatown(Master's thesis, University of Southern California, 2015) (pp. 1-112). Los Angeles: USC School of Architecture.
 
+{:.bibliography} 
 Park, K., & Kim, J. (2008). The Contested Nexus of Los Angeles Koreatown: Capital Restructuring, Gentrification, and Displacement. Amerasia Journal,34(3), 126-150. doi:10.17953/amer.34.3.d03g386u007n286w
 
+{:.bibliography} 
 Red Line. (2018). Retrieved November 28, 2018, from https://www.metro.net/riding/paid_parking/red-line/
 
+{:.bibliography} 
 Rosenthal, T. J. (2018, February 20). Transit-oriented development? More like transit rider displacement. Retrieved November 28, 2018, from https://www.latimes.com/opinion/op-ed/la-oe-rosenthal-transit-gentrification-metro-ridership-20180220-story.html
 
+{:.bibliography} 
 Shin, L. (1971). Koreans In America, 1903-1945. Amerasia Journal,1(3), 32-39. doi:10.17953/amer.1.3.g38n65792w5rh5m1
 
+{:.bibliography} 
 U.S. Census Bureau (2017). American Community Survey 1-year estimates. Retrieved from Census Reporter Profile page for Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, CA<https://censusreporter.org/profiles/79500US0603733-los-angeles-county-centralla-city-centralkoreatown-puma-ca/>
