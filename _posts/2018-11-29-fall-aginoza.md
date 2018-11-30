@@ -37,7 +37,7 @@ Images
 2017 Census Data that demonstrates how Koreans do not make up the majority of the population
    {:.caption}
  
-![Mural located in the metro station can only be interacted with from a distance](images/metro mural 2.JPG)
+![Mural located in the metro station can only be interacted with from a distance](images/metro mural 2.jpg)
    {:.image}
 Mural located in the metro station can only be interacted with from a distance
    {:.caption}
