@@ -2,7 +2,7 @@
 layout: post
 title: "Venice Beach Evolution and Preservation"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "gentrification" 
 author: "Kali Lee"
 lat: 33.9882438
 lng: -118.4750528
