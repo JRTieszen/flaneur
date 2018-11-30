@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los Angeles, a Slave to the Business Firms"
-date: 2018-10-29
+date: 2018-11-29
 categories: "gentrification" 
 author: "Hannah Hong"
 lat: 34.0498707
