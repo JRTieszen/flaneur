@@ -2,12 +2,12 @@
 layout: post
 title: "Intertwining Cultures of Old and Modern Venice"
 date: 2018-10-28
-categories: "Sustainability" 
+categories: "Gentrification" 
 author: "Kayly Luong"
 lat: 33.991590
 lng: -118.470750
 runningtitle: "Abbot Kinney Boulevard" 
-desc: "French School" 
+desc: "Although it was originally a melting pot of coexisting cultures, Venice is currently leaning towards becoming a new technology hotspot called Silicon Beach, which suits a younger and more affluent millennial audience." 
 ---
 With an influx of contemporary shops, trendy restaurants, and modern apartments, newcomers willing to pay higher prices may unknowingly be working towards redeveloping a city. To those living in these “new” cities, these additional amenities benefit the affluent residents moving in. However, the price of taking a worn down city and revamping it to become a flourishing mecca goes beyond the costs of new buildings; it strips away generations of community that have either immigrated or built their foundations within the neighborhood. High rent prices and expensive shops displace locals who are unable to keep up with the hike in basic living costs and are forced out of these neighborhoods. These small neighborhoods become morphed to fit industry growth and begin to lose cultural identity as a result. This process is known as gentrification and waivers between being beneficial and controversial depending on whose experiencing it. Although it was originally a melting pot of coexisting cultures, Venice is currently leaning towards becoming a new technology hotspot called Silicon Beach, which suits a younger and more affluent millennial audience. For example, the Abbot Kinney Boulevard neighborhood first existed as a hub for small businesses to flourish but it is now leaning towards a ground for larger corporate shops. Oakwood, another small neighborhood within Venice, houses low income African Americans, but is under threat from city pressures to move to make space for technology industry employees. As Venice Beach is currently undergoing gentrification, this city’s history is are being lost and forgotten by the new structures and lose of its original people. Venice Beach’s future as a community will be based on the intertwining relationship of how both the locals and new residents are capable of interacting with each other. 
 
