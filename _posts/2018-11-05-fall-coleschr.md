@@ -2,39 +2,39 @@
 layout: post
 title: "The Santa Monica Cultural Ecosystem"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "gentrification" 
 author: "Cole Schroeder"
 lat: 34.0149536
 lng: -118.5007239
-runningtitle: "Santa Monica’s largely white middle class demographic shapes and is shaped by the culture of the neighborhood through modern architecture, recreational and innovative industry, and progressive ideals."
+runningtitle: ""
 desc: "Santa Monica’s largely white middle class demographic shapes and is shaped by the culture of the neighborhood through modern architecture, recreational and innovative industry, and progressive ideals."
 ---
    Earth consists of a complex web of interconnected physical, chemical, and biological processes that form a balance of creation and destruction. Every organism and every community plays its part in an intricate and delicate game of balance. Santa Monica, a coastal city in Southern California, is especially attuned to this balance not only for the environment but also for the community culture. Santa Monica’s largely white middle class demographic shapes and is shaped by the culture of the neighborhood through modern architecture, recreational and innovative industry, and progressive ideals. Newly constructed  buildings appeal to modern middle-class tastes, which in addition to rising costs, stabilizes the white middle class demographic as the majority in the community and creates a hostile environment for the homeless. The city’s location and sustainable practices attract tourism and innovation, generating economic growth while curtailing economic diversity. Ecological programs, social projects, and youth-centered art demonstrate the progressive, forward thinking ideals of the community.
 
    Construction is abundant in Santa Monica, where new buildings are designed to appeal to modern tastes. The first thing to notice when visiting is that many of the buildings are cubical, flashy, and sleek—essentially the new trend in modern architecture. Look no farther than the last stop on the metro expo line, where exiting patrons are welcomed into the city by the cheery yellows of the street pavement and bold blue of the Big Blue Bus parking lot wall. Figure 1 displays various buildings from left to right: the hotel Courtyard by Marriott which can be seen right across from the metro stop, an apartment complex near downtown, and a trendy new home near the beach. All three of these living arrangements are typical of Santa Monica in their square modern fashion with an emphasis on glass and greenery. The sleek building design and green residential areas is contingent upon the residents who have the money and the influence on their neighborhood to demand such an atmosphere. Many neighborhoods in Los Angeles do not have the wealth for trendy homes or the space for carefully trimmed lawns, but Santa Monica is clearly on the opposite end of this spectrum.
      
-![You change this and put in your own Image title](images/schroederbuildings.jpg)
+![Buildings](images/schroederbuildings.jpg)
    {:.image}
-Figure 1: Modern design of hotel, apartment, and house in Santa Monica area
+Figure 1: Modern design of hotel, apartment, and house in Santa Monica area.
    {:.caption} 
    
    In order to keep up with the changing preferences of Santa Monica residents, there is rampant construction in the city. As can be seen in figure 2, Santa Monica has 11 current and 15 proposed construction sites while Long Beach has 10 current and 12 proposed construction sites. Although both cities have similar amounts of construction, Santa Monica has more small scale, likely residential construction sites whereas Long Beach has larger construction projects represented by the large shapes and longer lines of red and green. Larger scale projects are usually taken on by the city and are for public works rather than private residences, which reveals that Santa Monica’s construction is more focused on individual residence and business improvement whereas Long Beach’s construction is more for industry and public good. Recent construction in Santa Monica has yielded modern residences; however, living costs have been increasing at the same time to meet this new standard of housing.
    
-![You change this and put in your own Image title](images/schroederconstruction.jpg)
+![Construction Maps](images/schroederconstruction.jpg)
    {:.image}
-Figure 2: Construction maps of Santa Monica and Long Beach. Retrieved from [LA Development Map](https://www.ladevelopmentmap.com/)
+Figure 2: Construction maps of Santa Monica and Long Beach. Retrieved from [LA Development Map.](https://www.ladevelopmentmap.com/)
    {:.caption} 
 
 The rising housing costs in Santa Monica have defined the predominant race and class of people living there. In the 1970s, the neighborhood was burdened by “rapidly rising rent levels” after a period of “substantial apartment construction,” so in 1979 renters decided to put a stop to this rapid increase by passing a “local rent control initiative” (Levine, Grigsby & Heskin). While the goal of the rent control ordinance was to protect residents from climbing rent costs, not all residents benefitted equally. After 1979, on average white households spent only 27.5% of their income on rent whereas Latino households spent 37.5% and there were too few black households to have a meaningful sample size (Levine, Grigsby & Heskin). Although rent control fixed the rent in place, rent was already high, and as a result Latino and black households were priced out of the market due to their on average lower income levels. They could not sustainably pay the rent price as easily as the more affluent white families, and over time would be more likely to move out and look for more affordable accommodations. In effect, rent control only aided the better off middle-class white tenants and did not protect the interests of lower income minorities. Housing prices rose by “more than 200%” from 1995 to 2007, compounding the effect of the 1994 Northridge earthquake. The resulting housing deficit displaced more than just ethnic minorities. From 1990 to 2000, Santa Monica registered a 19% decline in people over the age of 60 and a 16% decrease in households earning below the county median income, while the city’s median household income increased by 40% (Kamel). Housing for prospective buyers became even less affordable as prices climbed while housing stock decreased. Meanwhile, many current low-income and elderly residents decided that it would cost more to fix earthquake damages than to move to a more affordable community. Housing cost increases established a hostile market for minorities, lower income groups, and the elderly, much like how the public architecture deters homeless individuals.
 
 With a largely well-off population in Santa Monica, many public amenities have grown to reflect the majority’s desires. The main streets are a prime walking location with their clean pavement, vividly-colored modern buildings, and the shimmery strip of blue on the horizon. Eventually it becomes apparent that one does not encounter many homeless here. Instead they are concentrated on the outskirts of society, huddled together in a secluded corner of the Big Blue Bus parking lot facing the Santa Monica Freeway and around the entrance of the low cost McDonalds. The reason for this unofficial segregation is the hostile architecture of public resting places. Figure 3 portrays a bench with dividers protruding at intervals so that a maximum of three people can sit at a time. This type of construction functions as a deterrent for homeless people who frequently sleep on public benches. With a lack of comfortable public areas to spend the night, the homeless seek other more accommodating locations, which is one way the community has decided to deal with its homeless population. Another example of architecture that is hostile to homeless is the Big Blue Bus stops shown in figure 4. At each bus stop there are divided seats instead of the benches that frequent other city bus stops, the coverage from umbrella like structures is sparse, and the trash cans nearby prevent tampering with solid coverings with a small hole to insert trash. All of these features dissuade homeless from sleeping at the bus stop by making the environment as uncomfortable as possible with little shelter and no place to lay down. The covered trash cans also prevent homeless from rummaging for food to eat or bottles to recycle for cash. The architecture of public transport stops appeals to the majority demographic in addition to the tourists that the city attracts.
 
-![BEACH BOUND](images/schroedermetrobench.jpg)
+![Metro Bench](images/schroedermetrobench.jpg)
    {:.image}
 Figure 3: Metro bench at downtown Santa Monica Expo Line Station.
    {:.caption} 
    
-![BEACH BOUND](images/schroederbigbluebus.jpg)
+![Big Blue Bus](images/schroederbigbluebus.jpg)
    {:.image}
 Figure 4: Hostile architecture of Big Blue Bus stop seats and trash cans.
    {:.caption} 
