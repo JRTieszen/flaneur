@@ -2,7 +2,7 @@
 layout: post
 title: "Suffering in Suburbia"
 date: 2018-10-28
-categories: "Suburbia" 
+categories: "suburbia" 
 author: "SHERIDAN HAYES"
 lat: 34.179023
 lng: -118.414327
