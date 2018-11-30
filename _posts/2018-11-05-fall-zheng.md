@@ -17,12 +17,12 @@ Abbot Kinney Boulevard was named the “coolest block of America” in the GQ Ma
 
 Venice has grown in significantly in size of population over the past decade, resulting in one of the highest densities for Los Angeles County. Although this density consists of “11,891 people per square mile,” the more concerning fact lies in how high the percentage of white people is (“Venice”). In relation to the rest of the county, it is considered extremely high, at “64.2% of the population” and even “the percentage of households earning $125,000 and up is high for the county” (“Venice”). From this information, we can infer that the proliferation of wealthy white people outweighs how low the median household income is (about $67,647 in 2008 dollars). One of the major concerns is how the population continues to increase even though housing construction is even over time, indicating that people who can no longer afford to live in Venice move out and new residents who can afford the hefty cost take their place. Venice has become inundated with people and the housing market won’t get any better as locals refuse to change regulatory building laws to better accommodate the new population. A conflict has risen between the newcomers mainly composed of rich, white people and the locals mainly composed of low-income to middle-class ethnicities. 
 
-![Pie Chart of Ethnicity in Venice, CA](images/chart.png)
+![Pie Chart of Ethnicity in Venice, CA](images/Zheng_PieChart.png)
    {:.image}
 This is a pie chart of ethnicity that is present in Venice, CA. The data is based off of the 2000 Census. This image was found on the [Los Angeles Times](http://maps.latimes.com/neighborhoods/neighborhood/venice/)
    {:.caption} 
    
-![Bar Graph of Household Income (in Thousands of Dollars) in Venice, CA](images/chart-1.png)
+![Bar Graph of Household Income (in Thousands of Dollars) in Venice, CA](images/Zheng_BarGraph.png)
    {:.image}
 This is a bar graph of household income (in thousands of dollars) present in Venice, CA. This image was found on the [Los Angeles Times](http://maps.latimes.com/neighborhoods/neighborhood/venice/)
    {:.caption} 
