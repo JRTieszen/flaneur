@@ -6,8 +6,8 @@ categories: "gentrification"
 author: "Brian Borgatello"
 lat: 34.0479
 lng: -118.4273
-runningtitle: ""
-Desc: "Primarily wealthy single young residents are immigrating to West Los Angeles transforming it into an expensive community with increasing safety and wellbeing while also shifting demographics. This movement creates controversy for two groups of people, the new residents being charged with the burden of bettering the community, and the existing residents experiencing a form of gentrification; being pushed out of their local neighborhood."
+runningtitle: "Making a City: West Los Angeles"
+desc: "Primarily wealthy single young residents are immigrating to West Los Angeles transforming it into an expensive community with increasing safety and wellbeing while also shifting demographics. This movement creates controversy for two groups of people, the new residents being charged with the burden of bettering the community, and the existing residents experiencing a form of gentrification; being pushed out of their local neighborhood."
 ---
 
 Making a City: West Los Angeles
