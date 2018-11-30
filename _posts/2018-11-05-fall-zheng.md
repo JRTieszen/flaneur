@@ -29,14 +29,14 @@ This is a bar graph of household income (in thousands of dollars) present in Ven
 
 Gentrification is the driving force behind the wave of upper-class takeovers in Venice. Defined as “the process of renovating and improving a house or district so that it conforms to middle-class taste,” it has changed Abbot Kinney Boulevard from a funky street made for cultural crossover and with independent shops catering to a bohemian vibe into an upscale commercial scene lined with expensive products and luxury brand names (“Gentrification”). Not only that, the residential areas, particularly along the shoreline, has been taken over and re-sold for millions of dollars. Every square foot mattered since Venice still has a “zoning ordinance on many lots that have been purchased thus far, restricting everything from building height to building extension size” (“Generalized Summary of Zoning Regulations – City of Los Angeles”). This complexity to the housing market has contributed to the shortage and remains a reason why even though some houses remain empty, prices are at an all-time high because the building doesn’t fit the needs of the next person buying it. 
 
-  ![Housing Under Construction](images/IMG_20181014_111402330_HDR.jpg)
+![Housing Under Construction](images/Zheng_UnderConstruction.jpg)
    {:.image}
 This is a house under construction just off of Main Street in Venice, CA. This image was taken by Jason Zheng.
    {:.caption} 
    
 Venice’s evolution into a popular commerce based on tourism has displaced many local businesses who can no longer afford sky-high rent prices and flagship businesses such as Adidas, Avocado, and Lemonade have taken their spot. Their main goal is simply profiting off of unknowing tourists, or rather those who can afford to waste money on such expensive products. It’s gotten to the point where “there’s been a severe shortage of Venice hotel rooms” which can mean that only those who are truly wealthy can afford to come and visit (Friedersdorf). When people are displaced from their homes, they are forced to move to another part of the city (Los Angeles has many different cultural neighborhoods that would be an option) or they become homeless. Gentrification has led to a new homeless crisis, especially prominent in Venice. The astronomical cost of rent has stopped more homeless shelters from being constructed and those already existing are fill beyond capacity. Tent cities have become more common, even right on Venice Beach.
 
-   ![Homeless Tent on Venice Beach](images/HomelessBelongings.jpg)
+![Homeless Tent on Venice Beach](images/Zheng_Homeless.jpg)
    {:.image}
 This is a homeless tent that is right on Venice Beach. It is only one among many homeless belongings right on the beach, next to retailers, entertainers, and also tourists. This image was taken by Jason Zheng.
    {:.caption} 
@@ -49,7 +49,7 @@ Even the Venice Boardwalk has fallen prey to the rules of gentrification, ruinin
 
 Artists, once the most prominent of Venice’s bohemian culture, are now subject to the same problems that face the rest of Venice. However, they can be the key for Venice’s revival as a town which accepts not only diversity but can remain true to their origins as outlined by Abbot Kinney. The founder of Venice wanted it to be a place of higher learning and where people could pursue their dreams. Not only has gentrification, among other major problems, stopped the latter, but it completely denies the former. Any place that refuses to care about its people will lose their respective will, dedication, and dreams. It will lose its purpose and what it means to be a home. Even now, street art remains a big part of Venice and its publicity is only increased due to exposure on many mediums (from the Internet all the way to word of mouth). Street art is all about “expression, creativity, and freedom […] It’s a way to step beyond convention” and with this method, artists can protest the many problems that are existent in Venice today (Janaline).  
 
-![Street Mural on Abandoned House](images/IMG_20181014_114912461_HDR.jpg)
+![Street Mural on Abandoned House](imagesZheng_Graffiti.jpg)
    {:.image}
 This is a street mural on an abandoned house in Venice, CA. This house is covered with graffiti and colors that represent the freedom of the local residents.
    {:.caption} 
