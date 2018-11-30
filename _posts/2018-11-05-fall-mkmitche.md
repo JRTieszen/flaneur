@@ -2,7 +2,7 @@
 layout: post
 title: "Putting the Art in the Arts District"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "gentrification" 
 author: "Molly Mitchell"
 lat: 34.043144
 lng: -118.239505
