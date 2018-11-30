@@ -2,7 +2,7 @@
 layout: post
 title: "Venice – An Evolving Community"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "gentrification" 
 author: "Allen Zou"
 lat: 33.9799761
 lng: -118.4873689
