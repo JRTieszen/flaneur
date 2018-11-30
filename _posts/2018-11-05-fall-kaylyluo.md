@@ -2,7 +2,7 @@
 layout: post
 title: "Intertwining Cultures of Old and Modern Venice"
 date: 2018-10-28
-categories: "Gentrification" 
+categories: "gentrification" 
 author: "Kayly Luong"
 lat: 33.991590
 lng: -118.470750
