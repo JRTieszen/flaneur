@@ -18,7 +18,7 @@ Venice – An Evolving Community
 Piercing through the clouds, beams of sunlight illuminated the streets of Venice. Cafes were buzzing, and Venice was waking. When questioned about Venice’s culture, a barista responded, “The last fifteen to twenty years we were overrun by gangs and now it has cleaned up a bit. For the most part, it is gentrifying.” Though it was founded as a resort town, Venice, due to decades of neglect, deteriorated to such a state as to be dubbed the “Slum by the Sea.” However, with the recent influx of large corporations and startups, and their efforts of putting money into Venice, it has become one of the most expensive neighborhoods in Los Angeles in terms of property value. Their presence creates a domino effect, which can be reflected in the people, presence of authority, and art culture of Venice. As a byproduct of new businesses, especially in the technology sector, a young and educated workforce has come to inhabit the community. A result of this is a gentrified community, which is oftentimes masked by the large population of tourists. Additionally, these rapid changes have brought forth a stark divide in socioeconomic status that is echoed across Venice’s divided residential areas and juxtaposing presence of authority. To expedite gentrification, the administration has implemented hostile architecture. Art on the other hand, remains a medium for individuals to express themselves and communicate the neighborhoods Bohemian culture. This idea is further supported through the accessibility to Venice’s plethora of art. Anyone can walk up to a mural, and not only observe it from different perspectives, but also directly engage with it. Yet, the placement of art does not always promote inclusivity. Oftentimes, it is found plastered on fences and concrete walls, which are used to separate a specific elite from the remainder of Venice.
 
 Historically, Venice was founded by Abbot Kinney – a millionaire tobacco tycoon. In addition, the area was once a lucrative oil field. In spite of this, it lacked the momentum to become a sustainable community. Kinney’s implementation of the amusement pier and canals generated immense popularity, which left Venice’s public services unable to keep up with the community’s growing demand. Unfortunately, the oil craze was also short lived. From a holistic viewpoint, the discovery of oil deteriorated the neighborhood; it left Venice’s waterways clogged with waste and in destitute. Now with the presence of technology companies such as Snap Inc. and Google LLC, the prospect of sustainability is called back into question. From 2012 to 2014 Pardee Properties – the highest selling real estate broker in Silicon Beach – experienced “20 percent gains each year” almost entirely due to “the tech sector” (Goldbloom, 2014). This indicates the neighborhood’s growing wealth, alongside its increasing number of highly educated residents. The reason behind this educational growth stems from the presence of companies like Google INC, which have reputations of only hiring from the nation’s top prospects. This entails Ivy League graduates or graduates of institutions of a similar tier. Moreover, the median age for Venice’s residents is thirty-five, and almost two thirds of residents are between nineteen and forty-nine years old.
-![You change this and put in your own Image title](census.jpg)
+![You change this and put in your own Image title] (zoucensus.jpg)
    {Venus Census Data – Age}
 This highlights the neighborhood’s abundant population of millennials, who apart for their young age, are likely to carry progressive views. Adding this to Venice’s already notoriously Bohemian lifestyle thus manifests conditions conducive of a dynamic and lively community. 
 
@@ -106,15 +106,7 @@ Arts Squad: , 2018, www.lafineartssquad.com/press/art-news/.
 
 
 
-Spaces will work.
 
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you 33.9996122click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-   
-   
 ![You change this and put in your own Image title](census.jpg)
    {Venus Census Data – Age}
 Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
