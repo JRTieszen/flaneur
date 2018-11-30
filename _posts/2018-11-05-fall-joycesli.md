@@ -2,7 +2,7 @@
 layout: post
 title: "The Transformation of Downtown Los Angeles"
 date: 2018-11-29
-categories: "sustainability" 
+categories: "gentrification" 
 author: "Joyce Liang"
 lat: 34.0514092
 lng: -118.2497616
