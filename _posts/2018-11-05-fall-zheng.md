@@ -22,7 +22,7 @@ Venice has grown in significantly in size of population over the past decade, re
 This is a pie chart of ethnicity that is present in Venice, CA. The data is based off of the 2000 Census. This image was found on the [Los Angeles Times](http://maps.latimes.com/neighborhoods/neighborhood/venice/)
    {:.caption} 
    
-   ![Bar Graph of Household Income (in Thousands of Dollars) in Venice, CA](images/chart-1.png)
+![Bar Graph of Household Income (in Thousands of Dollars) in Venice, CA](images/chart-1.png)
    {:.image}
 This is a bar graph of household income (in thousands of dollars) present in Venice, CA. This image was found on the [Los Angeles Times](http://maps.latimes.com/neighborhoods/neighborhood/venice/)
    {:.caption} 
@@ -58,7 +58,7 @@ From painting murals on now-abandoned houses to drawing strong political stateme
 
 Venice has been permanently changed in all aspects since its inclusion in the 2012 GQ Magazine. While its original bohemian culture remains in niches, it is in danger of being wiped out due to growing disparities in demographic factors such as race and wealth. Newcomers and their refusal to accommodate the locals that they’re displacing has created conflict that cannot be resolved easily. This model of rapid commercialization is not sustainable and detrimental as a whole to people who want to keep their unique culture intact. People must recognize that there is not just one way to go about the evolution of a city. There are multiples ways, and some of which can keep the most important traits from the previous era, in this case, accepting diversity to ensure cultural vitality. Change is often for the better, but for new Venice to attain the heights that the old Venice of Italy reached, it must continue to be willing to accept all groups of people, regardless of their respective backgrounds and remain true to their nonconformist origins. 
 
-#### Works cited
+#### Works Cited
 
 {:.bibliography} 
 1. Aron, Hillel. “How Venice Became the Most Expensive Neighborhood in Los Angeles.” L.A. Weekly, L.A. Weekly, 10 Nov. 2017, www.laweekly.com/news/how-venice-became-the-most-expensive-neighborhood-in-los-angeles-7831779.
