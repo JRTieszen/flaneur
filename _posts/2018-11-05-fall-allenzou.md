@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Venice – A Dynamic Community"
+title: "Venice – An Evolving Community"
 date: 2018-10-28
 categories: "sustainability" 
 author: "Allen Zou"
