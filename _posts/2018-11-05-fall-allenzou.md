@@ -40,26 +40,9 @@ As aforementioned, Venice’s art has no set medium. It has even gone so far as 
 
 Since its establishment as the “Venice of America” in 1905, Venice has widely been accepted as a richly untraditional and dynamic neighborhood. Abbot Kinney bought the land and transformed it into a utopic hotspot. He dug canals modeled after Venice, Italy. He built the amusement pier to entertain residents and passersby. Therefore, it should have been no surprise when technology companies decided to infiltrate the community, and sometimes even designate it as their home base as with Snap Inc. Venice is unique; Venice is accepting of creativity –a key component of technological innovation. With such a large and powerful industry entering Venice, however, there are bound to be a multitude of consequences directly correlated with this newfound presence. Particularly for Venice, these are highlighted in changes in Venice’s residents, jurisdiction, and artwork. Regardless, at the end of the day, Venice is an evolving community. While it is gentrifying as a result of the corporate world, the future of Venice remains unknown. The future of Venice remains a mystery, a mystery which can only be revealed by time itself. 
 
+#### Works cited
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Word Count: 2499
-Works Cited
+{:.bibliography} 
 “Brandelli's Brig.” We Are Not A Minority | Mural Conservancy of Los Angeles, Mural 
 Conservancy of Los Angeles, 2018, www.muralconservancy.org/node/52.
 
@@ -107,40 +90,4 @@ Arts Squad: , 2018, www.lafineartssquad.com/press/art-news/.
 
 
 
-![You change this and put in your own Image title](census.jpg)
-   {Venus Census Data – Age}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
 
-Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
-
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
-
-#### Works cited
-
-{:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
