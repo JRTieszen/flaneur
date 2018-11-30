@@ -2,10 +2,11 @@
 layout: post
 title: "Koreatown: The Urban Melting Pot of Los Angeles"
 date: 2018-11-05
-categories: "Sustainability" 
+categories: "polycultural" 
 author: "Aaron Ginoza"
 lat: 34.061692
 lng: -118.300981
+runningtitle: "Although Koreatown appears “Korean” upon a superficial glance, the neighborhood includes diverse groups with a vivid history, a metropolitan center plagued by gentrification, and a unique art domain."
 ---
 All-you-can-eat Korean barbecue, nightclubs, and a plethora of boba shops are very prominent throughout Koreatown but only serve as the tip of the iceberg of what actually constitutes it. Although Koreatown appears “Korean” upon a superficial glance, the neighborhood includes diverse groups with a vivid history, a metropolitan center plagued by gentrification, and a unique art domain. Koreatown’s history begins with the immigration of the first Koreans to California and then continues with the establishment of Korean Christian Churches as the core of all of Koreatown. As the population of Koreatown expanded and became more urbanized, a demographic shift began to take place along with the dawn of gentrification in the realtor and transit sectors. Gentrification also heavily influenced Koreatown’s abundance of public art while its signage held true and evolved with the times. 
 
