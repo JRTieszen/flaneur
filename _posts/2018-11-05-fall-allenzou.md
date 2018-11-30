@@ -4,8 +4,8 @@ title: "Venice – An Evolving Community"
 date: 2018-10-28
 categories: "gentrification" 
 author: "Allen Zou"
-lat: 33.9799761
-lng: -118.4873689
+lat: 33.988979
+lng: -118.471274
 runningtitle: "this is just the title at the top, no need to do anything here"
 desc: Venice – A Changing Community 
 ---
