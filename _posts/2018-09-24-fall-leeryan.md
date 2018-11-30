@@ -2,7 +2,7 @@
 layout: post
 title: "Venice Lifestyle"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "race" 
 author: "Ryan Lee"
 lat: 33.9996122
 lng: -118.2918727
