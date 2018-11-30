@@ -55,33 +55,28 @@ This is a pie chart of ethnicity that is present in Venice, CA. The data is base
 This is a pie chart of ethnicity that is present in Venice, CA. The data is based off of the 2000 Census. This image was found on the [Los Angeles Times](http://maps.latimes.com/neighborhoods/neighborhood/venice/)
    {:.caption} 
 
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
 ![You change this and put in your own Image title](images/example1.jpg)
    {:.image}
 You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
    {:.caption} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
 
 #### Works cited
 
 {:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
+1. Aron, Hillel. “How Venice Became the Most Expensive Neighborhood in Los Angeles.” L.A. Weekly, L.A. Weekly, 10 Nov. 2017, www.laweekly.com/news/how-venice-became-the-most-expensive-neighborhood-in-los-angeles-7831779.
+2. “Bar Graph of Household Income in Thousands of Dollars of Venice, CA.” Venice, Los Angeles Times, maps.latimes.com/neighborhoods/neighborhood/venice/.
+3. Carroll, Rory. “LA's Black Enclave Buffeted by Police Pressure and Tech-Driven Gentrification.” The Guardian, Guardian News and Media, 1 Dec. 2016, www.theguardian.com/us-news/2016/dec/01/venice-gentrification-oakwood-african-american-california.
+4. Daily News. “Venice Boardwalk Artists Will Need a Permit.” Daily News, Los Angeles Daily News, 29 Aug. 2017, www.dailynews.com/2008/04/09/venice-boardwalk-artists-will-need-a-permit/.
+5. Deener, Andrew. “Commerce as the Structure and Symbol of Neighborhood Life: Reshaping the Meaning of Community in Venice, California.” Academia.edu - Share Research, UCLA, www.academia.edu/33976981/Commerce_as_the_Structure_and_Symbol_of_Neighborhood_Life_Reshaping_the_Meaning_of_Community_in_Venice_California.
+6. “Ethnicity Pie Chart of Venice, CA.” Venice, Los Angeles Times, maps.latimes.com/neighborhoods/neighborhood/venice/.
+7. Friedersdorf, Conor. “How Venice Beach Became a Neighborhood for the Wealthy.” The Atlantic, Atlantic Media Company, 10 Aug. 2017, www.theatlantic.com/business/archive/2017/07/venice-beach-neighborhood-wealthy/534399/.
+8. “Generalized Summary of Zoning Regulations - City of Los Angeles.” Planning LA City, City of Los Angeles, 24 Jan. 2006, planning.lacity.org/zone_code/Appendices/sum_of_zone.pdf.
+9. “Gentrification.” Dictionary.com, Dictionary.com, www.dictionary.com/browse/gentrification.
+10. Graffiti Covered House. 4 Nov. 2018.
+11. Homeless Tent on Beach. 4 Nov. 2018.
+12. House Under Construction. 4 Nov. 2018.
+13. Janaline. “Top 5 Reasons Why Street Art Is Important.” Janaline's World Journey, WordPress.com, 25 Feb. 2018, janalinesworldjourney.com/2018/02/25/reasons-why-street-art-is-important/.
+14. Page, Samantha. “Google Opens New Campus in Venice.” Venice-Mar Vista, Patch Media, 5 Nov. 2011, patch.com/california/venice/silicon-beach-google-venice-los-angeles-opening-reception.
+15. “Venice California History.” Venice Beach Fun, Venice Paparazzi, 29 Jan. 2018, www.visitveniceca.com/2015/07/30/venicehistory.
+16. “Venice.” Los Angeles Times, Los Angeles Times, maps.latimes.com/neighborhoods/neighborhood/venice/#ethnicity.
+17. Zheng, Jason, et al. “Interview with Beachfront Artisan.” 4 Nov. 2018.
