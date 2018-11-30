@@ -2,7 +2,7 @@
 layout: post
 title: "Venice: A Town with Two Faces"
 date: 2018-10-28
-categories: "Gentrification" 
+categories: "gentrification" 
 author: "Ellen Park"
 lat: 33.988388
 lng: -118.4786392
