@@ -2,12 +2,12 @@
 layout: post
 title: "Venice Beach Evolution and Preservation"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "gentrification" 
 author: "Kali Lee"
 lat: 33.9882438
 lng: -118.4750528
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "The neighboorhood of Venice is adapting to becoming more attractive to tourism. Consequently, the neighborhood has undergone a number of changes that has challenged the neighborhood's conflicting goals of being true to its bohemian origins and becoming a tourist hotspot."
+desc: "Venice Beach continues to evolve to establish itself as a major tourist destination through adapting the local population, exhibiting free and accessible art, and developing different retail and residential aesthetics."
 ---
 
 Los Angeles currently has about 55,000 homeless individuals and about 1 in 10 Californians are living near or in poverty. Californian society wants to believe that it is a model community for achieving social justice. However, community changes demonstrate that California prioritizes its tourist economy and desires of its affluent residents far more than it is concerned about the displacement of low-income households and providing resources to the homeless. Venice Beach continues to evolve to establish itself as a major tourist destination through adapting the local population, exhibiting free and accessible art, and developing different retail and residential aesthetics. The community attempts to balance its bohemian identity with becoming a more affluent and homogenous community, which ironically is driving out the diverse community that inspired the artistic, outspoken nature of Venice. The community continues to pay tribute to its artistic origins by organizing public art festivals and preserving and promoting murals throughout the community to attract people seeking a bohemian and carefree environment. Differences between the upscale shopping on Abbot Kinney Boulevard and the casual ambiance of Venice Boardwalk as well as differences in residential areas illustrate Venice’s struggle to adapt to tourism and preserve its origins.
@@ -48,7 +48,7 @@ In addition to art festivals, Venice continues to incorporate art by having a va
 House Covered in Art on Venice Beach Boardwalk. 
    {:.caption}
    
-![You change this and put in your own Image title](images/LeeKali_Endangered Species Mural.jpg)
+![You change this and put in your own Image title](images/LeeKali_Endagered Species Mural.jpg)
    {:.image}
 Endangered Species Mural on the Side of Retailer. 
    {:.caption}
@@ -58,7 +58,7 @@ These murals are both for aesthetics – especially on hotels, which have images
 One of the most apparent changes in Venice was the development of Abbot Kinney Boulevard. Since its reformation from being West Washington Boulevard, it has grown into an upscale shopping area that has attracted media attention and drawn tourists to the neighborhood. The street has fostered a drastically different ambiance within this section of the community from the Venice Beach Boardwalk. Abbot Kinney Blvd used to be filled with “small-scale stores, political organizations, a neighborhood newspaper, nonprofit agencies, artist studios, and thrift stores” but it has since shifted from being a “multifunctional social space” to having a “central retail theme” (Deener). The street transformed from being a social hub for the local community to express their ideas and to develop intimate relationships to becoming a major tourist attraction. Moreover, this transformation has caused many locals to be displaced because the community transitioned to becoming more expensive, so they can no longer afford to own businesses on the street or afford shop there. In response to the displacement of the original residents, activists from different racial and economic backgrounds have advocated for more affordable housing and the protection of low-income residents (Deener). Transitioning a community from one directed to nurturing and supporting the residents to one that prioritizes its attraction to tourists makes it impractical and unfeasible for original families to continue to live there because of the increased costs. Changes in spaces like that of Abbot Kinney Blvd prevent economic and racial diversity causing it to become an affluent white community. Consequently, the neighborhood has adapted to become “safer” in the eyes of tourists as well.
 More authentic to the bohemian and diverse culture of Venice’s origins is the Venice Beach Boardwalk. The beachside is convenient for people to walk or bike around as it is bordering numerous restaurants, shops, hotels, and residential areas. Additionally, the beaches foster an ideal environment for visitors as it has a plethora of recreational areas like outdoor gyms, beach volleyball nets, and a skate park.
 
-![You change this and put in your own Image title](images/LeeKali_Beach.jpg)
+![You change this and put in your own Image title](images/LeeKali_Beach.png)
    {:.image}
 Southern California Beach Visitors. 
    {:.caption}
