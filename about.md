@@ -8,7 +8,9 @@ This site is a collaboration between Professor Dana Milstein, Stacy Williams (He
 Please feel free to contact anyone of us to discuss this project!
 
 Andy - arutkows@usc.edu
+
 Dana - danamils@usc.edu
+
 Stacy - stacyw@usc.edu
 
 
