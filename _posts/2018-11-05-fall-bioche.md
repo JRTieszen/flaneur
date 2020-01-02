@@ -2,7 +2,7 @@
 layout: post
 title: "Out With the Old, In With the New"
 date: 2018-10-28
-categories: "Polycultural" 
+categories: "polycultural" 
 author: "Joseph Bioche"
 lat: 34.0840126
 lng: -118.3695729
