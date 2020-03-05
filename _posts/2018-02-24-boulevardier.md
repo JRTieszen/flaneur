@@ -20,19 +20,6 @@ desc: "Harry's New York Bar, a well-known bar in Paris, is said to be the birthp
 
 "It’s a great in its de facto form, but I often find Campari a bit of a bully to softer whiskies, even at the modern recipe’s half up ratio of 2 parts whiskey to 1 of Campari. By cutting the 1 part of Campari in half, or even thirds, one can swap in dozens of other amari, or what are known as potable bitters, and create new versions of the drink ad infinitum. Try half an ounce of Campari with a quarter-ounce each of Amaro Ramazzotti and Zwack Hungarian bitter, with a swath of orange zest instead of the lemon. Or try thirds each of Campari, Cynar, the artichoke-based amaro and Braulio, a wonderful old Alpine bitter with a stark, piney grab that is brand new to the American market. Playtime is limited only by your patience and your budget. Add to those factors the variance in different whiskies and vermouths and you have a simple drink that can present you with new facets forever."
 
-<div class="galleria">
-        <img src="./img/syna-tiger-resort-272715-unsplash.jpg" alt="Photo by Syna Tiger Resort on Unsplash">
-        <img src="./img/niedblog-de-1170791-unsplash.jpg" alt="Photo by >>> niedblog.de on Unsplash">
-        <img src="./img/sacha-styles-560961-unsplash.jpg" alt="Photo by Sacha Styles on Unsplash">
-        <img src="./img/maria-teneva-1343355-unsplash.jpg" alt="Photo by Maria Teneva on Unsplash">
-        <img src="./img/jean-wimmerlin-528108-unsplash.jpg" alt="Photo by jean wimmerlin on Unsplash">
-        <img src="./img/jeff-rodgers-307783-unsplash.jpg" alt="Photo by Jeff Rodgers on Unsplash">
-        <img src="./img/eric-macdonell-58836-unsplash.jpg" alt="Photo by Eric MacDonell on Unsplash">
-        <img src="./img/ian-mcgrory-993023-unsplash.jpg" alt="Photo by Ian McGrory on Unsplash">
-        <img src="./img/isak-combrinck-1150832-unsplash.jpg" alt="Photo by Isak Combrinck on Unsplash">
-
-    </div>
-
 
 #### The Boulevardier
 * 2 ounces rye or bourbon
